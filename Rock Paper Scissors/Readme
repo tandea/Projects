@@ -1,0 +1,5 @@
+In this project I tried to replicate the Rock, Paper, Scissors game by using HTML, CSS and JS.
+
+// Upcoming updates
+UI updates: *Adding animations for different results(eg.WIN- background should flash a green color for .x seconds)
+*Score tracker
