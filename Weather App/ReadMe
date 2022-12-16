@@ -1,0 +1,16 @@
+In this project, I've build a mini-weather application using an external API (https://openweathermap.org/api).
+Also, in this project I've used: 
+*HTML5
+*CSS3
+*BOOTSTRAP
+*JQUERY
+*JAVASCRIPT
+
+For my coding editor, I've used Visual Studio Code.
+
+//
+
+Upcoming updates:
+Adding a search bar for user to find their city.
+A new UI.
+Adding a feature where the user can see multiple cities at once, and compare their temperature/ weather.
