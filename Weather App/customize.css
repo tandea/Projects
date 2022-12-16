@@ -1,0 +1,28 @@
+body{
+    background:#c80b0b;
+}
+
+.content{
+    margin-top: 3%;
+}
+
+.g-col-md-4{
+    border:1px solid #fff;
+    padding:30 px 10px;
+}
+.titlu{
+    font-size:2em;
+    color: #fff;
+    text-transform: uppercase;
+}
+.vremea{
+    color: #fff;
+    font-size:10em;
+
+}
+.temperatura{
+    color:#fff;
+    font-size:6em;
+    position:relative;
+    top:-40px;
+}
