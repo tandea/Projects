@@ -1,3 +1,5 @@
+## This is a mini-quiz game created using Python 
+
 print ("Hello World! This is my  mini-quiz game!")
 
 playing = input("Do you wanna play?")
