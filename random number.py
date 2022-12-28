@@ -1,3 +1,6 @@
+## This is a Python Project, in which you can guess the generetated random number by the program. You'll also get a hint if your guess is higher or lower than the generated number. 
+## Have fun!
+## Please let me know, what's your best guessing score! Mine was 7... :)
 import random
 
 top_of_range = input("Type a number:")
